@@ -43,7 +43,7 @@ public class RobotMap {
     public static final Solenoid climbPTO = new Solenoid(0);
     public static final Solenoid shiftPTO = new Solenoid(5);
 
-    public static final Solenoid tester1 = new Solenoid(0);
+    public static final Solenoid erty = new Solenoid(0);
     public static final Solenoid tester2 = new Solenoid(5);   
 
   }
